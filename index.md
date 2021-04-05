@@ -1,7 +1,10 @@
-测试编辑
-# by cheng wan
+### 欢迎使用2型糖尿病并发症预测模型
 
-## 欢迎使用2型糖尿病并发症预测模型
+## 中国大学生计算机设计大赛 2021 作品 南京医科大学
+
+# 小组成员：夏凌风 戴钰昕 谢俊毅
+
+# 指导老师：万程 胡晓雯
 
 ### go to [p1] (https://github.com/family-history-recognition/family-history-recognition.github.io/edit/main/index.md)
 
@@ -9,7 +12,7 @@ You can use the [editor on GitHub](https://github.com/family-history-recognition
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 中国大学生计算机设计大赛 2021 作品 南医大 ***
+
 
 测试 疾病预测模型
 
