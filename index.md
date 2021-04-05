@@ -1,14 +1,13 @@
 测试编辑
+# by cheng wan
 
-中国大学生计算机设计大赛 2021 作品 南医大
-
-## Welcome to GitHub Pages
+## 欢迎使用2型糖尿病并发症预测模型
 
 You can use the [editor on GitHub](https://github.com/family-history-recognition/family-history-recognition.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 中国大学生计算机设计大赛 2021 作品 南医大 ***
 
 测试 疾病预测模型
 
