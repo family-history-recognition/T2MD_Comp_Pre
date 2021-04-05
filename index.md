@@ -3,10 +3,8 @@
 ## 中国大学生计算机设计大赛 2021 作品 南京医科大学
 
 ### 小组成员：夏凌风 戴钰昕 谢俊毅
-
 ### 指导老师：万程 胡晓雯
 
-### go to [p1] (https://github.com/family-history-recognition/family-history-recognition.github.io/edit/main/index.md)
 
 You can use the [editor on GitHub](https://github.com/family-history-recognition/family-history-recognition.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
