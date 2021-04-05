@@ -1,10 +1,10 @@
-### 欢迎使用2型糖尿病并发症预测模型
+# 欢迎使用2型糖尿病并发症预测模型
 
 ## 中国大学生计算机设计大赛 2021 作品 南京医科大学
 
-# 小组成员：夏凌风 戴钰昕 谢俊毅
+### 小组成员：夏凌风 戴钰昕 谢俊毅
 
-# 指导老师：万程 胡晓雯
+### 指导老师：万程 胡晓雯
 
 ### go to [p1] (https://github.com/family-history-recognition/family-history-recognition.github.io/edit/main/index.md)
 
