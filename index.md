@@ -3,6 +3,8 @@
 
 ## 欢迎使用2型糖尿病并发症预测模型
 
+### go to [p1] (https://github.com/family-history-recognition/family-history-recognition.github.io/edit/main/index.md)
+
 You can use the [editor on GitHub](https://github.com/family-history-recognition/family-history-recognition.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
